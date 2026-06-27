@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Ammorick 个人资料浏览]（https://u8views.com/api/v1/github/profiles/67368240/views/day-week-month-total-count.svg）（https://u8views.com/github/ammorick）## Hi there 👋
 
 <!--
 **ammorick/ammorick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
